@@ -28,25 +28,19 @@ tkinter, tkcalendar, sqlite3, xml.etree.ElementTree
 
 # How to Run
 1. Install Dependencies:
-
-- pip install tk tkcalendar
+  - pip install tk tkcalendar
 
 2. Run the Notebook
-
-- Open calendar_app.ipynb in Jupyter Notebook or VS Code
+  - Open calendar_app.ipynb in Jupyter Notebook or VS Code
 
 3. Use the Application
-
-- Register a user → Click Register
-
-- Login with the same user → Click Login
-
-- Add Event
-  - Enter Title
-  - Start & End Time (Format: YYYY-MM-DD HH:MM)
-  - (Optional) Check Share Event
-
-- Export Shared Events → Creates shared_calendar.xml in your folder
+  - Register a user → Click Register
+  - Login with the same user → Click Login
+  - Add Event
+    - Enter Title
+    - Start & End Time (Format: YYYY-MM-DD HH:MM)
+    - (Optional) Check Share Event
+  - Export Shared Events → Creates shared_calendar.xml in your folder
 
 # Generated Files
 
