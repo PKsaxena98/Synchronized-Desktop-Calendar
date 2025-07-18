@@ -1,10 +1,10 @@
 # Synchronized-Desktop-Calendar
 A desktop calendar application built with Python, Tkinter, SQLite, and XML for event synchronization. It allows users to:
 
--- Register & Login
--- Add personal events with start and end times
--- Share events globally and export shared events as XML
--- View events stored locally in an SQLite database
+- Register & Login
+- Add personal events with start and end times
+- Share events globally and export shared events as XML
+- View events stored locally in an SQLite database
 
 # Features
 -- User Authentication (Register/Login)
