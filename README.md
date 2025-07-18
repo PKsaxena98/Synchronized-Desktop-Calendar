@@ -47,3 +47,6 @@ tkinter, tkcalendar, sqlite3, xml.etree.ElementTree
 - Database: calendar.db → Stores users and events
 
 - XML File: shared_calendar.xml → Stores globally shared events for synchronization
+
+# Screenshots
+![Login Screenshot](C:\Users\Lenovo\OneDrive\Pictures\Screenshots 2)
