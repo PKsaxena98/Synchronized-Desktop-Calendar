@@ -43,9 +43,9 @@ tkinter, tkcalendar, sqlite3, xml.etree.ElementTree
 
 - Add Event
 
- ** Enter Title
- ** Start & End Time (Format: YYYY-MM-DD HH:MM)
- ** (Optional) Check Share Event
+ ### Enter Title
+ ### Start & End Time (Format: YYYY-MM-DD HH:MM)
+ ### (Optional) Check Share Event
 
 - Export Shared Events → Creates shared_calendar.xml in your folder
 
