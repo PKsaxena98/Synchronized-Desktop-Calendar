@@ -49,8 +49,11 @@ tkinter, tkcalendar, sqlite3, xml.etree.ElementTree
 - XML File: shared_calendar.xml → Stores globally shared events for synchronization
 
 # Screenshots
+
+### Login Screen
 <img width="1366" height="726" alt="2025-07-19" src="https://github.com/user-attachments/assets/33d1f35a-e9c1-43e9-ac83-fded29131d1f" />
 <img width="1366" height="723" alt="2025-07-19 (3)" src="https://github.com/user-attachments/assets/090101fc-4c2e-41b8-b69f-ad3992bf0e18" />
+### Dashboard
 <img width="1366" height="722" alt="2025-07-19 (1)" src="https://github.com/user-attachments/assets/1c13a0e7-41bc-4bc1-9ae3-0b4cb4f78a93" />
 <img width="1351" height="692" alt="2025-07-19 (5)" src="https://github.com/user-attachments/assets/08f1c773-3f83-4613-9b0f-787145725331" />
 <img width="1353" height="687" alt="2025-07-19 (4)" src="https://github.com/user-attachments/assets/40b2ff17-4503-41f1-91d9-bef7d108a302" />
